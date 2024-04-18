@@ -1,4 +1,4 @@
-# Snake Game in Python using Turtle
+# Snake Game in Python using Turtle 🐍
 
 ## Introduction
 This is a simple implementation of the classic Snake game using Python's Turtle module for graphics. The game involves controlling a snake to eat food pellets and grow longer, while avoiding collisions with the walls or itself.
